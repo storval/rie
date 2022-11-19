@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+
+    margin: 15px;
+}
+
+a, p, h1, h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    margin: 13px;
+    text-align: center;
+
+}
+
+#heim {
+    font-size: 20px;
+    text-align: left;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.head-select, .picks {
+    text-align: center;
+}
+
+
+.main-sida-manifesto {
+    border: dotted;
+    color: white;
+    border-width: 4px;
+    margin: 20px;
+
+}
+
+.picks {
+    color: white;
+    border: dotted;
+    border-width: 4px;
+    padding: 10px;
+}
+
+.picks a {
+    text-decoration: none;
+
+}
+
+.picks a:hover {
+    color: pink;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: pink;
+}
